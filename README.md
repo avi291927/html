@@ -1,29 +1,31 @@
-VIT University Landing Page 🌐
+# VIT University Landing Page 🌐
 
-A responsive college admission inquiry landing page built using HTML5 and CSS3, designed to represent VIT University with a clean UI, modern layout, and user-friendly form.
+A responsive **college admission inquiry landing page** built using **HTML5 and CSS3**, designed to represent **VIT University** with a clean UI, modern layout, and user-friendly form.
 
-📌 Project Overview
+---
 
-This project is a static university website homepage that includes:
+## 📌 Project Overview
 
-Navigation bar with logo and links
+This project is a **static university website homepage** that includes:
 
-Hero section with welcome message
+- Navigation bar with logo and menu links  
+- Hero section with welcome message  
+- Admission inquiry form  
+- Campus image section  
+- Footer with contact details  
 
-Admission inquiry form
+It is suitable for **college assignments, mini projects, and web design practice**.
 
-Campus image section
+---
 
-Footer with contact details
+## 🛠️ Technologies Used
 
-It is ideal for college assignments, mini projects, or UI practice.
+- **HTML5**
+- **CSS3**
+- **Flexbox**
+- **Responsive Web Design**
 
-🛠️ Technologies Used
+---
 
-HTML5 – Structure of the webpage
+## 📂 Project Structure
 
-CSS3 – Styling, layout, and responsiveness
-
-Flexbox – Layout management
-
-Responsive Design – Works on desktop & mobile screens
