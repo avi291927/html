@@ -26,6 +26,7 @@ It is suitable for **college assignments, mini projects, and web design practice
 - **Responsive Web Design**
 
 ---
+<img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/900628c5-5059-4dd2-a24b-8332e9d310b9" />
 
 
 
