@@ -27,5 +27,5 @@ It is suitable for **college assignments, mini projects, and web design practice
 
 ---
 
-## 📂 Project Structure
+
 
